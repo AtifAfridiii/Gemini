@@ -1,0 +1,1 @@
+const String Gemini_Api_Key = 'Your_Api_Key';
